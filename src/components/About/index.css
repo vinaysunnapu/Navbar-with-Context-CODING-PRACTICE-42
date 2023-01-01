@@ -1,0 +1,29 @@
+.about-bg-container {
+  display: flex;
+  justify-content: center;
+}
+.about-light-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: 100vh;
+  color: black;
+  font-family: roboto;
+}
+.about-dark-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 80%;
+  height: 100vh;
+  color: white;
+  font-family: roboto;
+  background-color: black;
+}
+.about-image {
+  width: 200px;
+  height: 200px;
+}

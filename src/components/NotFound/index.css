@@ -1,0 +1,29 @@
+.not-found-bg-container {
+  display: flex;
+  justify-content: center;
+}
+.not-light-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: black;
+  font-family: roboto;
+  height: 100vh;
+  width: 80%;
+}
+.not-dark-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-family: roboto;
+  background-color: black;
+  height: 100vh;
+  width: 80%;
+}
+.not-found-image {
+  width: 250px;
+  height: 250px;
+}
